@@ -1,7 +1,11 @@
 *{margin:0; padding: 0;}
 .texto-principal{
-    color: blue;
+    color: white;
 }
-.texto-segundario{
-    color: black;
+#texto1{
+    background-color: black;
+}
+
+#texto2{
+    background-color: green;
 }
