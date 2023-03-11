@@ -2,7 +2,27 @@
 P{
     color: red;
     text-align: justify;
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
+
+P#texto2{
+    color: black;
+    text-align:right;
+    text-transform:lowercase;
+    letter-spacing: 10px;
+
+}
+
+
+P#texto3{
+    color:teal;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 15px;
+    text-shadow: 5px black;
+}
+
 
 h1{
     color:green;
