@@ -1,0 +1,15 @@
+/*resetando*/
+*{margin:0; padding: 0; box-sizing: border-box;}
+#exemplo{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    transition: 5s;
+}
+
+#exemplo:hover{
+    background-color:rebeccapurple;
+    height: 400px;
+    width: 400px;
+
+}

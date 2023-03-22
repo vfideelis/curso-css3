@@ -1,0 +1,22 @@
+/*resetando*/
+*{margin:0; padding: 0; box-sizing: border-box;}
+#base{
+    background-color: green;
+    height: 600px;  /*altura*/
+    width: 600px;  /*largura*/
+
+}
+
+#direita{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    float: right;
+}
+
+#esquerda{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    float: left;
+}

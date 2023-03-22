@@ -1,0 +1,11 @@
+/*resetando*/
+*{margin:0; padding: 0; box-sizing: border-box;}
+body{
+    /* background-color: aquamarine; */
+    background-image: url(../img/img-css.png);
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    height: 700px;
+}
+
